@@ -29,5 +29,4 @@ meu-portfolio/
 - JavaScript
 
 
-
-Feito por benicio
+Feito por Benicio
