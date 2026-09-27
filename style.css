@@ -12,3 +12,9 @@ header .banner { width: 100%; display: block; }
 
 body.tema-escuro { background: #0f172a; color: #f1f5f9; }
 body.tema-escuro .card { background: #1e293b; }
+
+@media (max-width: 600px) {
+  #projetos { padding: 10px; }
+  .card { max-width: 100%; }
+  .foto-perfil { width: 90px; }
+}
