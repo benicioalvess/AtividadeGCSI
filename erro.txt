@@ -1,4 +1,0 @@
-BUGS CONHECIDOS
-================
-1. [RESOLVIDO] Botão "Alternar tema" agora tem aria-label.
-2. Imagem de perfil sem "alt" descritivo o suficiente.
